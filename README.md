@@ -6,7 +6,7 @@
 
 ## 💻 Tecnologías y Herramientas
 
-- **Frontend:** Angular, React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript  
+- **Frontend:** Angular, React, Next.js, TypeScript  
 - **Backend:** Node.js, Express.js, Python  
 - **Bases de datos:** MongoDB, MySQL, PostgreSQL  
 - **Herramientas y otros:** Git, GitHub, REST APIs, Docker, JWT, Firebase  
