@@ -1,13 +1,12 @@
 # 👋💻 Full Stack Software Developer
 
-¡Hola! Mi nombre es Ruben, soy un Fullstack Software Developer, me apasiona mucho crear páginas y aplicaciones web, estoy un poco enfocado en el uso de interfaces modernas pero me ilusiona mucho aprender nuevas tecnologías y contribuir en proyectos.
-
+¡Hola! Mi nombre es Ruben, soy un Fullstack Software Developer con años de experiencia en el desarrollo de aplicaciones web escalables. Trayectoria demostrada en la entrega de funcionalidades end to-end en entornos ágiles, optimizando el código para maximizar la eficiencia.
 ---
 
 ## 💻 Tecnologías y Herramientas
 
-- **Frontend:** Angular, React, Next.js, TypeScript  
-- **Backend:** Node.js, Express.js, Python  
+- **Frontend:** Angular, React, Next.js, TypeScript
+- **Backend:** Node.js, Express.js, Python, Spring Boot, Java
 - **Bases de datos:** MongoDB, MySQL, PostgreSQL  
 - **Herramientas y otros:** Git, GitHub, REST APIs, Docker, JWT, Firebase  
 
@@ -27,9 +26,9 @@
 ---
 
 ## 🌱 Actualmente Aprendiendo
-- Spring Boot / Java
-- DevOps básico (CI/CD, Docker avanzado)  
-- Microservicios y arquitectura escalable  
+- AWS
+- DevOps (CI/CD, Docker avanzado)  
+- Microservicios
 
 ---
 
