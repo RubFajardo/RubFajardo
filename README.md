@@ -1,9 +1,9 @@
-# 👋💻 Full Stack Software Developer
+# Full Stack Software Developer
 
 ¡Hola! Mi nombre es Ruben, soy un Fullstack Software Developer con años de experiencia en el desarrollo de aplicaciones web escalables. Trayectoria demostrada en la entrega de funcionalidades end to-end en entornos ágiles, optimizando el código para maximizar la eficiencia.
 ---
 
-## 💻 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **Frontend:** Angular, React, Next.js, TypeScript
 - **Backend:** Node.js, Express.js, Python, Spring Boot, Java
@@ -12,7 +12,7 @@
 
 ---
 
-## 🔥 Proyectos Destacados
+##  Proyectos Destacados
 
 ### [Habits Tracker](https://github.com/RubFajardo/Habits-Tracker)
 - Página web creada para el seguimiento de hábitos saludables, incluyendo los tres pilares de una vida saludable: Sueño, alimentación y ejercicio.
@@ -22,13 +22,6 @@
 ### [Rade](https://github.com/RubFajardo/Rade)
 - Página web en desarrollo para el seguimiento de entrenamientos de fuerza, dieta y descanso.
 - Tecnologías usadas: Angular, Tailwind CSS y desarrollo Backend con Spring Boot
-
----
-
-## 🌱 Actualmente Aprendiendo
-- AWS
-- DevOps (CI/CD, Docker avanzado)  
-- Microservicios
 
 ---
 
